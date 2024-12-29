@@ -10,8 +10,7 @@ The drum sounds are played using the Audio object in JavaScript.
 There’s a small animation effect created by adding and removing a CSS class.
 It’s a fun little project where you can make your own beats. Hope you enjoy it! 😊
 .....Try it out here! 🥁
-
-
+https://hardik-sonawane.github.io/Drum-Kit/
 (It’s hosted online, so you can try it directly and create your own beats!)
 
 Hope you enjoy it! 😊
